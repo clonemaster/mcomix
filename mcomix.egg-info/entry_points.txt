@@ -1,0 +1,6 @@
+[console_scripts]
+mcomix = mcomix.run:run
+
+[setuptools.installation]
+eggsecutable = mcomix.run:run
+

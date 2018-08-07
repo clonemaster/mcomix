@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: mcomix
+Version: 1.2.1
+Summary: GTK comic book viewer
+Home-page: http://mcomix.sourceforge.net
+Author: Ark
+Author-email: https://sourceforge.net/u/aaku/profile/
+License: License :: OSI Approved :: GNU General Public License (GPL)
+Download-URL: http://sourceforge.net/projects/mcomix/files
+Description: MComix is a user-friendly, customizable image viewer. It is specifically designed to handle comic books (both Western comics and manga) and supports a variety of container formats (including CBR, CBZ, CB7, CBT, LHA and PDF). MComix is a fork of Comix.
+Platform: Operating System :: POSIX :: Linux
+Platform: Operating System :: Microsoft :: Windows
+Platform: Operating System :: POSIX :: BSD
+Requires: pygtk (>=2.12.0)
+Requires: PIL (>=1.15)
